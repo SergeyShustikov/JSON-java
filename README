@@ -1,8 +1,14 @@
-JSON in Java [package org.json]
 
+Reimplementation of Douglas CrockFord JSON Library.
+
+ - Added ordering when parse xml data.
+
+Sergey Shustikov
+pandarium.shustikov@gmail.com
+
+JSON in Java [package org.json]
 Douglas Crockford
 douglas@crockford.com
-
 2011-02-02
 
 
